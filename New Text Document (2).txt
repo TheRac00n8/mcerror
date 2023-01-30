@@ -1,0 +1,468 @@
+
+C:\Users\conner\Desktop\MC try 1000>REM Forge requires a configured set of both JVM and program arguments.
+
+C:\Users\conner\Desktop\MC try 1000>REM Add custom JVM arguments to the user_jvm_args.txt
+
+C:\Users\conner\Desktop\MC try 1000>REM Add custom program arguments {such as nogui} to this file in the next line before the  or
+
+C:\Users\conner\Desktop\MC try 1000>REM  pass them to this script directly
+
+C:\Users\conner\Desktop\MC try 1000>java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.18.1-39.1.0/win_args.txt
+[23:01:47] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 39.1.0, --fml.mcVersion, 1.18.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211210.034407]
+[23:01:47] [main/INFO]: ModLauncher 9.1.0+9.1.0+main.6690ee51 starting: java version 19.0.2 by Oracle Corporation
+[23:01:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/conner/Desktop/MC%20try%201000/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2319!/ Service=ModLauncher Env=SERVER
+[23:01:48] [main/INFO]: Found mod file abnormals_delight-1.18.2-3.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file absentbydesign-1.18.2-1.6.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file additionaladditions-4.0.5.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file AdditionalBanners-Forge-1.18.2-7.0.6.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file additionalbars-3.0.1-beta+1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file additionallanterns-1.0.1-mc1.18.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Adorn-3.5.0+1.18.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file AI-Improvements-1.18.2-0.5.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file AkashicTome-1.5-20.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file alexsmobs-1.18.6.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file another_furniture-forge-1.2.2-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Aquaculture-1.18.2-2.3.8.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file architectury-4.10.86-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file AttributeFix-Forge-1.18.2-14.0.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file backpacked-2.1.10-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file BadMobs-1.18.2-13.01.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file balm-3.2.0+0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file BambooEverything-forge-1.3.3-build.34+mc1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file BetterCompatibilityChecker-1.1.15-build.29+mc1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file BetterModsButton-v3.2.3-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file BetterShieldsMC1.18.1-1.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Blocks + 1.18.1 - 1.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file blue_skies-1.18.2-1.3.12.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file blueprint-1.18.2-5.5.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file boatload-1.18.2-3.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.2.50.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file buzzier_bees-1.18.2-4.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file bygonenether-1.2.1-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file caelus-forge-1.18.1-3.0.0.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file carryon-1.18.2-1.17.0.8.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Cataclysm-0.19.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file chipped-2.0.0-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file citadel-1.11.3-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file cleancut-mc1.18.2-4.0-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file cloth-config-6.4.90-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+15.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file collective-1.18.2-5.11.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.5.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ConfigMenusForge-v3.2.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file corail_woodcutter-1.18.2-2.3.7.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file corpse-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file CraftTweaker-forge-1.18.2-9.1.197.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file CreaturesFromTheLushCave-1.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file creeperoverhaul-1.18.2-1.3.0-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file culturaldelights-1.18.2-0.14.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file curioofundying-forge-1.18-5.3.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file curiouselytra-forge-1.18.1-5.0.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file curiouslights-forge-1.3.0+1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file DarkPaintings-Forge-1.18.2-10.0.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Decorative Blocks-forge-1.18.2-2.1.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file dragonmounts-1.18.2-1.1.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file duckling-1.0.6-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file dungeons_plus-1.18.2-1.2.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file DungeonsArise-1.18.2-2.1.50d-beta.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file dynamic_asset_generator-forge-1.18.2-0.6.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file dynamiclightsreforged-1.18.2_v1.3.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file EarthMobs-1.18.2-1.1.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file EasyMagic-v3.3.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file EasyShulkerBoxes-v3.1.1-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ecologics-forge-1.18.2-1.7.10.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file elevatorid-1.18.2-1.8.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Enhanced_Celestials-forge-1.18.2-2.0.7.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file everycomp-1.18.2-1.5.12.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file excavated_variants-forge-1.18.2-0.6.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file FallingTree-1.18.2-3.5.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.2.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file FarmersRespite-1.18.2-1.3.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ferritecore-4.2.1-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file forgottenrecipes-forge-1.18.1-1.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file friendsandfoes-forge-mc1.18.2-1.4.5.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ftb-chunks-forge-1802.3.6-build.170.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ftb-library-forge-1802.3.6-build.140.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ftb-quests-forge-1802.3.8-build.101.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ftb-teams-forge-1802.2.6-build.69.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file ftbbackups2-forge-1.18.2-1.0.14.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Galosphere-1.18.2-1.0.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file geckolib-forge-1.18-3.0.48.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file geode-1.1.3-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file goblintraders-1.8.0-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file guardvillagers-1.18.2.1.4.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Highlighter-1.18.1-1.1.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file HunterIllager-1.18.2-4.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Iceberg-1.18.2-forge-1.0.49.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Illager Plushies 1.1.5 1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file illagersweararmor-1.1.5.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file immersive_weathering-1.18.2-3.0.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file incontrol-1.18-6.0.19.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file item-filters-forge-1802.2.8-build.40.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Jade-1.18.2-forge-5.2.5.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file jei-1.18.2-9.7.1.255.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file JEITweaker-1.18.2-3.0.0.9.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file JER-Integration-3.3.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file JustEnoughResources-1.18.2-0.14.1.171.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Kiwi-1.18.2-forge-6.1.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file kleeslabs-forge-1.18.2-11.1.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file kotlinforforge-3.7.1-obf.jar of type LANGPROVIDER with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file MagnumTorch-v3.1.3-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file mavm-mc1.18.2-forge-1.0.8b.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file MerchantMarkers-1.18.2-1.2.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file More Babies-forge-1.18.1-0.5.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file morevillagers-forge-1.18.2-3.3.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file mowziesmobs-1.5.31.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file NaturesCompass-1.18.2-1.9.7-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file neapolitan-1.18.2-3.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file netherdepthsupgrade-1.2.1-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file netherportalfix-forge-1.18-9.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file NethersDelight-1.18.2-2.2.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.7.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file omnis-1.18.2-1.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Paintings-forge-1.18.2-9.1.2.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Patchouli-1.18.2-71.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Paxi-1.18.2-Forge-2.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file personality-1.18.2-2.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file pluto-mc1.18.2-0.0.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file polylib-forge-1801.0.2-build.13.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file polymorph-forge-1.18.2-0.45.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file PuzzlesLib-v3.3.5-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Quark-3.2-358.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file repurposed_structures_forge-5.1.14+1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file revampedwolf-1.18.2-1.2.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Rex's-AdditionalStructures-1.18.2-(v.3.1.1).jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file rottencreatures-forge-1.18.2-0.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Runelic-Forge-1.18.2-11.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file saturn-mc1.18.2-0.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file savage_and_ravage-1.18.2-4.0.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file selene-1.18.2-1.17.9.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file SereneSeasons-1.18.2-7.0.0.15.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file simpleshops-1.2.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file SimpleStorageNetwork-1.18.2-1.6.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file skinned_lanterns-1.18.2-1.3.4.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file smoothboot(reloaded)-mc1.18.2-0.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file smoothchunk-1.18.2-1.9.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Snow_Pig-1.18.2-4.3.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file snowyspirit-1.18.2-1.3.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file snuffles-1.0.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file spark-1.9.11-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file spirit-forge-1.18.2-2.1.8.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file stalwart-dungeons-1.18.2-1.2.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file starterkit_1.18.2-3.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Steve's_Vanilla_v0.4.0+1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Strawgolem-forge-1.18.2-2.0.0b2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file structure_gel-1.18.2-2.4.7.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file supermartijn642corelib-1.0.19-forge-mc1.18.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file supplementaries-1.18.2-1.5.12.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file takesapillage-1.0.2-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.2.0.126.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file textrues_rubidium_options-1.0.3-mc1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file the-conjurer-1.18.2-1.1.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file The_Graveyard_1.9.2_(FORGE)_for_1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Towns-and-Towers-1.18.2-1.6.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file TradingPost-v3.2.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file twigs-1.1.4-patch4+1.18.2-forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file twilightforest-1.18.2-4.1.1423-universal.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file UniversalBoneMeal-v3.0.5-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file UnusualEnd1.18_V1.2.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file upgradedcore-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file upgradednetherite-1.18.2-4.2.0.6-release.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file upgradednetherite_items-1.18.2-3.2.0.0-release.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file upgradednetherite_ultimate-1.18.2-3.2.0.1-release.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file veinmining-forge-1.18.2-0.20.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file verdure-1.18.2-1.1.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file village-employment-1.18.2-1.5.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file villagernames_1.18.2-4.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file villagertools-1.18-1.0.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file VisualWorkbench-v3.3.0-1.18.2-Forge.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file voidtotem-forge-1.18.2-1.3.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file waystones-forge-1.18.2-10.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file wildbackport-1.2.3.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file Xaeros_Minimap_22.16.0_Forge_1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file XaerosWorldMap_1.28.1_Forge_1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file xptome-1.18.2-2.1.6.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsApi-1.18.2-Forge-2.2.6.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsBridges-1.18.2-Forge-2.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file YungsExtras-1.18.2-Forge-2.1.0.jar of type MOD with locator {mods folder locator at C:\Users\conner\Desktop\MC try 1000\mods}
+[23:01:48] [main/INFO]: Found mod file fmlcore-1.18.1-39.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@277f7dd3
+[23:01:48] [main/INFO]: Found mod file javafmllanguage-1.18.1-39.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@277f7dd3
+[23:01:48] [main/INFO]: Found mod file mclanguage-1.18.1-39.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@277f7dd3
+[23:01:48] [main/INFO]: Found mod file server-1.18.1-20211210.034407-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@277f7dd3
+[23:01:48] [main/INFO]: Found mod file forge-1.18.1-39.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@277f7dd3
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by additionaladditions-4.0.5.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by AdditionalBanners-Forge-1.18.2-7.0.6.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by additionalbars-3.0.1-beta+1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by AkashicTome-1.5-20.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by alexsmobs-1.18.6.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by another_furniture-forge-1.2.2-1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Aquaculture-1.18.2-2.3.8.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by architectury-4.10.86-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by AttributeFix-Forge-1.18.2-14.0.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,] wanted by BadMobs-1.18.2-13.01.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by balm-3.2.0+0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by BambooEverything-forge-1.3.3-build.34+mc1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by BetterModsButton-v3.2.3-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by blue_skies-1.18.2-1.3.12.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Bookshelf-Forge-1.18.2-13.2.50.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by carryon-1.18.2-1.17.0.8.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by chipped-2.0.0-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by citadel-1.11.3-1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by cleancut-mc1.18.2-4.0-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Clumps-forge-1.18.2-8.0.0+15.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by collective-1.18.2-5.11.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by ConfigMenusForge-v3.2.0-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by corail_woodcutter-1.18.2-2.3.7.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by corpse-1.18.2-1.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by CreaturesFromTheLushCave-1.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by creeperoverhaul-1.18.2-1.3.0-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by culturaldelights-1.18.2-0.14.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by curios-forge-1.18.2-5.0.7.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by DarkPaintings-Forge-1.18.2-10.0.3.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by dragonmounts-1.18.2-1.1.4.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by duckling-1.0.6-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by dungeons_plus-1.18.2-1.2.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by DungeonsArise-1.18.2-2.1.50d-beta.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by dynamic_asset_generator-forge-1.18.2-0.6.3.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by EarthMobs-1.18.2-1.1.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by EasyMagic-v3.3.0-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by EasyShulkerBoxes-v3.1.1-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by ecologics-forge-1.18.2-1.7.10.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by elevatorid-1.18.2-1.8.4.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Enhanced_Celestials-forge-1.18.2-2.0.7.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by excavated_variants-forge-1.18.2-0.6.4.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by FallingTree-1.18.2-3.5.4.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by FarmersDelight-1.18.2-1.2.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by friendsandfoes-forge-mc1.18.2-1.4.5.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by ftb-chunks-forge-1802.3.6-build.170.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by geckolib-forge-1.18-3.0.48.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by geode-1.1.3-1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by goblintraders-1.8.0-1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by HunterIllager-1.18.2-4.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Iceberg-1.18.2-forge-1.0.49.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Illager Plushies 1.1.5 1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by illagersweararmor-1.1.5.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by immersive_weathering-1.18.2-3.0.2-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by incontrol-1.18-6.0.19.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by jei-1.18.2-9.7.1.255.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by JEITweaker-1.18.2-3.0.0.9.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by JER-Integration-3.3.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Kiwi-1.18.2-forge-6.1.3.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by MagnumTorch-v3.1.3-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by mavm-mc1.18.2-forge-1.0.8b.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by MerchantMarkers-1.18.2-1.2.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by morevillagers-forge-1.18.2-3.3.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by mowziesmobs-1.5.31.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by NaturesCompass-1.18.2-1.9.7-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by netherdepthsupgrade-1.2.1-1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.7.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Patchouli-1.18.2-71.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Paxi-1.18.2-Forge-2.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by pluto-mc1.18.2-0.0.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by polymorph-forge-1.18.2-0.45.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by PuzzlesLib-v3.3.5-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Quark-3.2-358.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by revampedwolf-1.18.2-1.2.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Rex's-AdditionalStructures-1.18.2-(v.3.1.1).jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by rottencreatures-forge-1.18.2-0.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Runelic-Forge-1.18.2-11.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by saturn-mc1.18.2-0.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by simpleshops-1.2.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by skinned_lanterns-1.18.2-1.3.4.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by smoothboot(reloaded)-mc1.18.2-0.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Snow_Pig-1.18.2-4.3.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by snowyspirit-1.18.2-1.3.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by snuffles-1.0.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by spirit-forge-1.18.2-2.1.8.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by stalwart-dungeons-1.18.2-1.2.3.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by starterkit_1.18.2-3.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Steve's_Vanilla_v0.4.0+1.18.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Strawgolem-forge-1.18.2-2.0.0b2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by structure_gel-1.18.2-2.4.7.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by TerraBlender-forge-1.18.2-1.2.0.126.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by the-conjurer-1.18.2-1.1.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by Towns-and-Towers-1.18.2-1.6.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by TradingPost-v3.2.0-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by twigs-1.1.4-patch4+1.18.2-forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by twilightforest-1.18.2-4.1.1423-universal.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by UniversalBoneMeal-v3.0.5-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by UnusualEnd1.18_V1.2.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by upgradedcore-1.18.2-3.2.0.0-release.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by upgradednetherite-1.18.2-4.2.0.6-release.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by upgradednetherite_items-1.18.2-3.2.0.0-release.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by upgradednetherite_ultimate-1.18.2-3.2.0.1-release.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by veinmining-forge-1.18.2-0.20.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by verdure-1.18.2-1.1.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by village-employment-1.18.2-1.5.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by villagernames_1.18.2-4.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by VisualWorkbench-v3.3.0-1.18.2-Forge.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by voidtotem-forge-1.18.2-1.3.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by waystones-forge-1.18.2-10.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by wildbackport-1.2.3.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsApi-1.18.2-Forge-2.2.6.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBetterDesertTemples-1.18.2-Forge-1.3.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBetterDungeons-1.18.2-Forge-2.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBetterMineshafts-1.18.2-Forge-2.2.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBetterWitchHuts-1.18.2-Forge-1.0.1.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsBridges-1.18.2-Forge-2.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing language javafml version [40,) wanted by YungsExtras-1.18.2-Forge-2.1.0.jar, found 39
+[23:01:48] [main/ERROR]: Missing mandatory dependencies: curios, minecraft, minecraft, minecraft, forge, farmersdelight, minecraft, minecraft, forge, minecraft, minecraft, minecraft, forge, minecraft, citadel, forge, architectury, forge, forge, forge, forge, curios, forge, minecraft, curios, forge, geckolib3, farmersdelight, forge, jei, balm, curios, minecraft, forge, architectury, forge, forge, forge, minecraft, farmersdelight, architectury, forge, architectury, minecraft, minecraft, minecraft, minecraft, balm, architectury, forge, minecraft, minecraft, iceberg, minecraft, minecraft, minecraft, forge, architectury, forge
+[23:01:50] [main/INFO]: Compatibility level set to JAVA_17
+[23:01:50] [main/ERROR]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[23:01:50] [main/ERROR]: Mixin config polylib.mixins.json does not specify "minVersion" property
+[23:01:50] [main/INFO]: Launching target 'forgeserver' with arguments []
+[23:01:51] [main/WARN]: Reference map 'everycomp.refmap.json' for everycomp.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:01:51] [main/WARN]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:01:51] [main/WARN]: Reference map 'nethersdelight.refmap.json' for nethersdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:01:51] [main/WARN]: Reference map 'polylib-common-refmap.json' for polylib.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/server/ReloadableServerResources (java.lang.ClassNotFoundException: net.minecraft.server.ReloadableServerResources)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.server.ReloadableServerResources was not found blueprint.mixins.json:ReloadableServerResourcesMixin
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/server/ReloadableServerResources (java.lang.ClassNotFoundException: net.minecraft.server.ReloadableServerResources)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.server.ReloadableServerResources was not found crafttweaker.mixins.json:common.access.server.AccessReloadableServerResources
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/server/packs/resources/MultiPackResourceManager (java.lang.ClassNotFoundException: net.minecraft.server.packs.resources.MultiPackResourceManager)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.server.packs.resources.MultiPackResourceManager was not found repurposed_structures.mixins.json:resources.ReloadableResourceManagerImplAccessor
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/world/level/levelgen/structure/pools/ListPoolElement (java.lang.ClassNotFoundException: net.minecraft.world.level.levelgen.structure.pools.ListPoolElement)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.world.level.levelgen.structure.pools.ListPoolElement was not found repurposed_structures.mixins.json:structures.ListPoolElementAccessor
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/world/level/levelgen/structure/pools/SinglePoolElement (java.lang.ClassNotFoundException: net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement was not found repurposed_structures.mixins.json:structures.SinglePoolElementAccessor
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/world/level/levelgen/structure/pools/StructureTemplatePool (java.lang.ClassNotFoundException: net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool was not found repurposed_structures.mixins.json:structures.StructurePoolAccessor
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/world/level/levelgen/structure/pools/StructureTemplatePool (java.lang.ClassNotFoundException: net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.world.level.levelgen.structure.pools.StructureTemplatePool was not found repurposed_structures.mixins.json:structures.StructurePoolMixin
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/server/packs/resources/MultiPackResourceManager (java.lang.ClassNotFoundException: net.minecraft.server.packs.resources.MultiPackResourceManager)
+[23:01:51] [main/WARN]: @Mixin target net.minecraft.server.packs.resources.MultiPackResourceManager was not found selene.mixins.json:MultiPackResourceManagerMixin
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: net/minecraftforge/common/crafting/conditions/ICondition$IContext (java.lang.ClassNotFoundException: net.minecraftforge.common.crafting.conditions.ICondition$IContext)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/server/MinecraftServer$ReloadableResources (java.lang.ClassNotFoundException: net.minecraft.server.MinecraftServer$ReloadableResources)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/tags/TagManager$LoadResult (java.lang.ClassNotFoundException: net.minecraft.tags.TagManager$LoadResult)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/tags/TagManager$LoadResult (java.lang.ClassNotFoundException: net.minecraft.tags.TagManager$LoadResult)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/core/HolderSet$Named (java.lang.ClassNotFoundException: net.minecraft.core.HolderSet$Named)
+[23:01:51] [main/WARN]: Error loading class: net/minecraft/commands/arguments/ResourceOrTagLocationArgument$Result (java.lang.ClassNotFoundException: net.minecraft.commands.arguments.ResourceOrTagLocationArgument$Result)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/WARN]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 63)
+[23:01:51] [main/FATAL]: Mixin apply failed crafttweaker.mixins.json:common.access.server.AccessMinecraftServer -> net.minecraft.server.MinecraftServer: org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException No candidates were found matching f_129740_:Lnet/minecraft/server/MinecraftServer$ReloadableResources; in net/minecraft/server/MinecraftServer for crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources; [INJECT Applicator Phase -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer -> Apply Accessors ->  -> Locate -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources;]
+org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException: No candidates were found matching f_129740_:Lnet/minecraft/server/MinecraftServer$ReloadableResources; in net/minecraft/server/MinecraftServer for crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources; [INJECT Applicator Phase -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer -> Apply Accessors ->  -> Locate -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources;]
+        at org.spongepowered.asm.mixin.gen.AccessorInfo.findTarget(AccessorInfo.java:518) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.gen.AccessorInfo.findTargetField(AccessorInfo.java:501) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.gen.AccessorInfo.locate(AccessorInfo.java:475) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinTargetContext.generateAccessors(MixinTargetContext.java:1389) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyAccessors(MixinApplicatorStandard.java:1060) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:398) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar%2319!/:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+        at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-9.1.0.jar%235!/:9.1.0+9.1.0+main.6690ee51]
+        at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.1.jar:?]
+        at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+        at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223) ~[securejarhandler-1.0.1.jar:?]
+        at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213) ~[securejarhandler-1.0.1.jar:?]
+        at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130) ~[securejarhandler-1.0.1.jar:?]
+        at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+        at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+        at java.lang.Class.privateGetDeclaredMethods(Class.java:3458) ~[?:?]
+        at java.lang.Class.getMethodsRecursive(Class.java:3599) ~[?:?]
+        at java.lang.Class.getMethod0(Class.java:3585) ~[?:?]
+        at java.lang.Class.getMethod(Class.java:2275) ~[?:?]
+        at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:46) ~[fmlloader-1.18.1-39.1.0.jar%2323!/:?]
+        at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.0.jar%235!/:?]
+        at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+Exception in thread "main" org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+        at cpw.mods.securejarhandler@1.0.1/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110)
+        at cpw.mods.securejarhandler@1.0.1/cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:213)
+        at cpw.mods.securejarhandler@1.0.1/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:223)
+        at cpw.mods.securejarhandler@1.0.1/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:213)
+        at cpw.mods.securejarhandler@1.0.1/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:130)
+        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+        at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+        at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3458)
+        at java.base/java.lang.Class.getMethodsRecursive(Class.java:3599)
+        at java.base/java.lang.Class.getMethod0(Class.java:3585)
+        at java.base/java.lang.Class.getMethod(Class.java:2275)
+        at MC-BOOTSTRAP/fmlloader@1.18.1-39.1.0/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:46)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@9.1.0/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+        at cpw.mods.bootstraplauncher@1.0.0/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149)
+Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [crafttweaker.mixins.json:common.access.server.AccessMinecraftServer] from phase [DEFAULT] in config [crafttweaker.mixins.json] FAILED during APPLY
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:636)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:588)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379)
+        ... 27 more
+Caused by: org.spongepowered.asm.mixin.gen.throwables.InvalidAccessorException: No candidates were found matching f_129740_:Lnet/minecraft/server/MinecraftServer$ReloadableResources; in net/minecraft/server/MinecraftServer for crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources; [INJECT Applicator Phase -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer -> Apply Accessors ->  -> Locate -> crafttweaker.mixins.json:common.access.server.AccessMinecraftServer->@Accessor[FIELD_GETTER]::crafttweaker$getResources()Lnet/minecraft/server/MinecraftServer$ReloadableResources;]
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.gen.AccessorInfo.findTarget(AccessorInfo.java:518)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.gen.AccessorInfo.findTargetField(AccessorInfo.java:501)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.gen.AccessorInfo.locate(AccessorInfo.java:475)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTargetContext.generateAccessors(MixinTargetContext.java:1389)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyAccessors(MixinApplicatorStandard.java:1060)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:398)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+        ... 27 more
+
+C:\Users\conner\Desktop\MC try 1000>pause
+Press any key to continue . . .
